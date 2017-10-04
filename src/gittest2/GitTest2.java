@@ -18,6 +18,8 @@ public class GitTest2 {
         System.out.println("Another Git Test.\n");
         System.out.println("Hello World!!!\n");
         System.out.println("Starting to get somewhere.\n");
+        
+        System.out.println("Just another test.\n");
     }
     
 }
