@@ -20,6 +20,8 @@ public class GitTest2 {
         System.out.println("Starting to get somewhere.\n");
         
         System.out.println("Just another test.\n");
+        
+        System.out.println("And another test.\n");
     }
     
 }
